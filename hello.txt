@@ -1,1 +1,9 @@
 Hello Git!
+
+Steps:
+1. Create a new repository from GitHub.
+2. Create a folder locally on your machine.
+3. Opening the locol folder in VScode.
+4. Initializing the repository from the terminal in VSCode.
+5. Create the README file and the hello.txt
+6. Add, commit and push the files to github.
